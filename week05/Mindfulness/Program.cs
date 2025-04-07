@@ -1,3 +1,11 @@
+/*
+ * Features that exceed basic requirements:
+ * 1. Different timings for inhale (4s) and exhale (6s) in the breathing activity
+ * 2. Animated spinner with multiple characters for better visual feedback
+ * 3. Input validation in the main menu
+ * 4. Enhanced transitions and messages for better user experience
+ */
+
 using System;
 using System.Collections.Generic;
 using System.Threading;
